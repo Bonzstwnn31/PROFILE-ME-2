@@ -40,9 +40,9 @@ body{
     font-style: italic;
 }
 .header img{
-    width: 200px;
-    height: 200px;
-    border-radius: 150%;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
     border: groove rgba(247, 243, 243, 0.356);
     margin-top: 10px;
 }
